@@ -1,0 +1,23 @@
+---
+title: 'Customising Your Models With TensorFlow 2'
+output: html_document
+---
+<style type='text/css'>
+pre:not([class]) {
+    background-color: unset;
+}
+pre {
+    border: none;
+}
+</style>
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(warning = F, message = F, error = T, echo = T)
+```
+
+[Assignment 01 Transfer Learning](#transfer-learning)  
+
+### Transfer Learning
+
+`r htmltools::includeHTML('Assignment 01 Transfer Learning.html')`
+
