@@ -1,0 +1,90 @@
+---
+title: 'Customising Your Models With TensorFlow 2'
+output: html_document
+---
+<style type='text/css'>
+pre:not([class]) {
+    background-color: unset;
+}
+pre {
+    border: none;
+}
+.container-fluid {
+    padding: 0;
+}
+</style>
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(warning = F, message = F, error = T, echo = T)
+```
+
+[Assignment 01 Transfer Learning](#transfer-learning)  
+[Assignment 02 Data Pipeline with Keras and tf.data](#data-pipeline-with-keras-and-tf.data)  
+[Assignment 03 Language Model For The Shakespeare Dataset](#language-model-for-the-shakespeare-dataset)  
+[Assignment 04 Residual Network](#residual-network)  
+
+[Lab 01 Layer Nodes](#Layer Nodes)
+[Lab 02 Device Placement](#Device Placement)
+[Lab 03 The Keras Functional API](#The Keras Functional API)
+[Lab 04 Keras TimeseriesGenerator](#Keras TimeseriesGenerator)
+[Lab 05 Creating Datasets From Different Sources](#Creating Datasets From Different Sources)
+[Lab 06 TensorFlow Datasets](#TensorFlow Datasets)
+[Lab 07 Data Pipeline](#Data Pipeline)
+[Lab 08 Tokenising Text Data](#Tokenising Text Data)
+[Lab 09 Stateful RNNs](#Stateful RNNs)
+[Lab 10 Sequence Modelling](#Sequence Modelling)
+[Lab 11 The Build Method](#The Build Method)
+[Lab 12 Tracking Metrics In Custom Training Loops](#Tracking Metrics In Custom Training Loops)
+[Lab 13 Model Subclassing And Custom Training Loops](#Model Subclassing And Custom Training Loops)
+
+### Layer Nodes
+
+`r htmltools::includeHTML('Lab 01 Layer Nodes.html')`
+
+### Device Placement
+
+`r htmltools::includeHTML('Lab 02 Device Placement.html')`
+
+### The Keras Functional API
+
+`r htmltools::includeHTML('Lab 03 The Keras Functional API.html')`
+
+### Keras TimeseriesGenerator
+
+`r htmltools::includeHTML('Lab 04 Keras TimeseriesGenerator.html')`
+
+###  Creating Datasets From Different Sources
+
+`r htmltools::includeHTML('Lab 05 Creating Datasets From Different Sources.html')`
+
+### TensorFlow Datasets
+
+`r htmltools::includeHTML('Lab 06 TensorFlow Datasets.html')`
+
+### Data Pipeline
+
+`r htmltools::includeHTML('Lab 07 Data Pipeline.html')`
+
+### Tokenising Text Data
+
+`r htmltools::includeHTML('Lab 08 Tokenising Text Data.html')`
+
+### Stateful RNNs
+
+`r htmltools::includeHTML('Lab 09 Stateful RNNs.html')`
+
+### Sequence Modelling
+
+`r htmltools::includeHTML('Lab 10 Sequence Modelling.html')`
+
+### The Build Method
+
+`r htmltools::includeHTML('Lab 11 The Build Method.html')`
+
+### Tracking Metrics In Custom Training Loops
+
+`r htmltools::includeHTML('Lab 12 Tracking Metrics In Custom Training Loops.html')`
+
+### Model Subclassing And Custom Training Loops
+
+`r htmltools::includeHTML('Lab 13 Model Subclassing And Custom Training Loops.html')`
