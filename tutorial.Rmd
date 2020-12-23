@@ -18,24 +18,19 @@ pre {
 knitr::opts_chunk$set(warning = F, message = F, error = T, echo = T)
 ```
 
-[Assignment 01 Transfer Learning](#transfer-learning)  
-[Assignment 02 Data Pipeline with Keras and tf.data](#data-pipeline-with-keras-and-tf.data)  
-[Assignment 03 Language Model For The Shakespeare Dataset](#language-model-for-the-shakespeare-dataset)  
-[Assignment 04 Residual Network](#residual-network)  
-
-[Lab 01 Layer Nodes](#Layer Nodes)
-[Lab 02 Device Placement](#Device Placement)
-[Lab 03 The Keras Functional API](#The Keras Functional API)
-[Lab 04 Keras TimeseriesGenerator](#Keras TimeseriesGenerator)
-[Lab 05 Creating Datasets From Different Sources](#Creating Datasets From Different Sources)
-[Lab 06 TensorFlow Datasets](#TensorFlow Datasets)
-[Lab 07 Data Pipeline](#Data Pipeline)
-[Lab 08 Tokenising Text Data](#Tokenising Text Data)
-[Lab 09 Stateful RNNs](#Stateful RNNs)
-[Lab 10 Sequence Modelling](#Sequence Modelling)
-[Lab 11 The Build Method](#The Build Method)
-[Lab 12 Tracking Metrics In Custom Training Loops](#Tracking Metrics In Custom Training Loops)
-[Lab 13 Model Subclassing And Custom Training Loops](#Model Subclassing And Custom Training Loops)
+[Lab 01 Layer Nodes](#layer-nodes)  
+[Lab 02 Device Placement](#device-placement)  
+[Lab 03 The Keras Functional API](#the-keras-functional-api)  
+[Lab 04 Keras TimeseriesGenerator](#keras-timeseriesgenerator)  
+[Lab 05 Creating Datasets From Different Sources](#creating-datasets-from-different-sources)  
+[Lab 06 TensorFlow Datasets](#tensorflow-datasets)  
+[Lab 07 Data Pipeline](#data-pipeline)  
+[Lab 08 Tokenising Text Data](#tokenising-text-data)  
+[Lab 09 Stateful RNNs](#stateful-rnns)  
+[Lab 10 Sequence Modelling](#sequence-modelling)  
+[Lab 11 The Build Method](#the-build-method)  
+[Lab 12 Tracking Metrics In Custom Training Loops](#tracking-metrics-in-custom-training-loops)  
+[Lab 13 Model Subclassing And Custom Training Loops](#model-subclassing-and-custom-training-loops)  
 
 ### Layer Nodes
 
