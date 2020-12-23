@@ -9,6 +9,9 @@ pre:not([class]) {
 pre {
     border: none;
 }
+.container-fluid {
+    padding: 0;
+}
 </style>
 
 ```{r setup, include = FALSE}
